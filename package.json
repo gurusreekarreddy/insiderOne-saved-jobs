@@ -1,0 +1,14 @@
+{
+  "name": "job-board-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small job board for an insiderOne work sample. Node 20, no packages.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

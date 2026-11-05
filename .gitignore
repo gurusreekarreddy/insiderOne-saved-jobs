@@ -1,0 +1,7 @@
+node_modules/
+saved.json
+*.tmp
+*.corrupt.*
+.DS_Store
+.env
+__MACOSX/

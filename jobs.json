@@ -1,0 +1,10 @@
+[
+  { "id": "j1", "title": "Data Analyst Intern", "company": "Brightlane Retail", "location": "Remote", "stipend": 12000 },
+  { "id": "j2", "title": "Frontend Developer Intern", "company": "Kite Learning", "location": "Pune", "stipend": 15000 },
+  { "id": "j3", "title": "Content Writer Intern", "company": "Tarang Media", "location": "Remote", "stipend": 8000 },
+  { "id": "j4", "title": "Finance Intern", "company": "Kosha Fintech", "location": "Mumbai", "stipend": 10000 },
+  { "id": "j5", "title": "UI/UX Design Intern", "company": "Pebble Health", "location": "Bengaluru", "stipend": 15000 },
+  { "id": "j6", "title": "Backend Developer Intern", "company": "Orbit Logistics", "location": "Remote", "stipend": 20000 },
+  { "id": "j7", "title": "Marketing Intern", "company": "Saffron Foods", "location": "Delhi NCR", "stipend": 8000 },
+  { "id": "j8", "title": "Customer Support Intern", "company": "Vayu Mobility", "location": "Remote", "stipend": 9000 }
+]
